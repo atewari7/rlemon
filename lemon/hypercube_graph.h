@@ -20,9 +20,9 @@
 #define HYPERCUBE_GRAPH_H
 
 #include <vector>
-#include 'core.h'
-#include 'assert.h'
-#include 'bits/graph_extender.h'
+#include "core.h"
+#include "assert.h"
+#include "bits/graph_extender.h"
 
 ///\ingroup graphs
 ///\file

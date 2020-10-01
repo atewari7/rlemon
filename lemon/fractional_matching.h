@@ -24,12 +24,12 @@
 #include <set>
 #include <limits>
 
-#include 'core.h'
-#include 'unionfind.h'
-#include 'bin_heap.h'
-#include 'maps.h'
-#include 'assert.h'
-#include 'elevator.h'
+#include "core.h"
+#include "unionfind.h"
+#include "bin_heap.h"
+#include "maps.h"
+#include "assert.h"
+#include "elevator.h"
 
 ///\ingroup matching
 ///\file

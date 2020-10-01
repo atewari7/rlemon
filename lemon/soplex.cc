@@ -17,7 +17,7 @@
  */
 
 #include <iostream>
-#include 'soplex.h'
+#include "soplex.h"
 
 #include <soplex.h>
 #include <spxout.h>

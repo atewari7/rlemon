@@ -29,16 +29,16 @@
 #include<sys/time.h>
 #include<ctime>
 #else
-#include<lemon/bits/windows.h>
+#include "bits/windows.h"
 #endif
 
-#include<lemon/math.h>
-#include<lemon/core.h>
-#include<lemon/dim2.h>
-#include<lemon/maps.h>
-#include<lemon/color.h>
-#include<lemon/bits/bezier.h>
-#include<lemon/error.h>
+#include "math.h"
+#include "core.h"
+#include "dim2.h"
+#include "maps.h"
+#include "color.h"
+#include "bits/bezier.h"
+#include "error.h"
 
 
 ///\ingroup eps_io

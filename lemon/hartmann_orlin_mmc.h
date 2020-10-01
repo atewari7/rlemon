@@ -26,10 +26,10 @@
 
 #include <vector>
 #include <limits>
-#include 'core.h'
-#include 'path.h'
-#include 'tolerance.h'
-#include 'connectivity.h'
+#include "core.h"
+#include "path.h"
+#include "tolerance.h"
+#include "connectivity.h"
 
 namespace lemon {
 

@@ -19,10 +19,10 @@
 #ifndef GRID_GRAPH_H
 #define GRID_GRAPH_H
 
-#include 'core.h'
-#include 'bits/graph_extender.h'
-#include 'dim2.h'
-#include 'assert.h'
+#include "core.h"
+#include "bits/graph_extender.h"
+#include "dim2.h"
+#include "assert.h"
 
 ///\ingroup graphs
 ///\file

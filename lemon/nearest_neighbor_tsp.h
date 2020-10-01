@@ -26,8 +26,8 @@
 #include <deque>
 #include <vector>
 #include <limits>
-#include 'full_graph.h'
-#include 'maps.h'
+#include "full_graph.h"
+#include "maps.h"
 
 namespace lemon {
 

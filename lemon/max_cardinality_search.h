@@ -24,11 +24,11 @@
 /// \file
 /// \brief Maximum cardinality search in undirected digraphs.
 
-#include 'bin_heap.h'
-#include 'bucket_heap.h'
+#include "bin_heap.h"
+#include "bucket_heap.h"
 
-#include 'error.h'
-#include 'maps.h'
+#include "error.h"
+#include "maps.h"
 
 #include <functional>
 

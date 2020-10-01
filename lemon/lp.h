@@ -19,19 +19,19 @@
 #ifndef LEMON_LP_H
 #define LEMON_LP_H
 
-#include<lemon/config.h>
+#include "config.h"
 
 
 #ifdef LEMON_HAVE_GLPK
-#include 'glpk.h'
+#include "glpk.h"
 #elif LEMON_HAVE_CPLEX
-#include 'cplex.h'
+#include "cplex.h"
 #elif LEMON_HAVE_SOPLEX
-#include 'soplex.h'
+#include "soplex.h"
 #elif LEMON_HAVE_CLP
-#include 'clp.h'
+#include "clp.h"
 #elif LEMON_HAVE_CBC
-#include 'cbc.h'
+#include "cbc.h"
 #endif
 
 ///\file

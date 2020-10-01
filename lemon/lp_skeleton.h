@@ -19,7 +19,7 @@
 #ifndef LEMON_LP_SKELETON_H
 #define LEMON_LP_SKELETON_H
 
-#include 'lp_base.h'
+#include "lp_base.h"
 
 ///\file
 ///\brief Skeleton file to implement LP/MIP solver interfaces

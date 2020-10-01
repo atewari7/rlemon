@@ -23,9 +23,9 @@
 ///\file
 ///\brief ListDigraph and ListGraph classes.
 
-#include 'core.h'
-#include 'error.h'
-#include 'bits/graph_extender.h'
+#include "core.h"
+#include "error.h"
+#include "bits/graph_extender.h"
 
 #include <vector>
 #include <list>

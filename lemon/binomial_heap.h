@@ -26,8 +26,8 @@
 #include <vector>
 #include <utility>
 #include <functional>
-#include 'math.h'
-#include 'counter.h'
+#include "math.h"
+#include "counter.h"
 
 namespace lemon {
 

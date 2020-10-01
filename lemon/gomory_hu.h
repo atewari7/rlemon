@@ -21,10 +21,10 @@
 
 #include <limits>
 
-#include 'core.h'
-#include 'preflow.h'
-#include 'concept_check.h'
-#include 'concepts/maps.h'
+#include "core.h"
+#include "preflow.h"
+#include "concept_check.h"
+#include "concepts/maps.h"
 
 /// \ingroup min_cut
 /// \file

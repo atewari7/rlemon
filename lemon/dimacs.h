@@ -23,8 +23,8 @@
 #include <string>
 #include <vector>
 #include <limits>
-#include 'maps.h'
-#include 'error.h'
+#include "maps.h"
+#include "error.h"
 /// \ingroup dimacs_group
 /// \file
 /// \brief DIMACS file format reader.

@@ -25,9 +25,9 @@
 
 #include <vector>
 
-#include 'list_graph.h'
-#include 'bin_heap.h'
-#include 'assert.h'
+#include "list_graph.h"
+#include "bin_heap.h"
+#include "assert.h"
 
 namespace lemon {
 

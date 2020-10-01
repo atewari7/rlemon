@@ -24,7 +24,7 @@
 ///\brief Radix heap implementation.
 
 #include <vector>
-#include 'error.h'
+#include "error.h"
 
 namespace lemon {
 

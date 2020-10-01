@@ -19,15 +19,15 @@
 #ifndef LEMON_CONNECTIVITY_H
 #define LEMON_CONNECTIVITY_H
 
-#include 'dfs.h'
-#include 'bfs.h'
-#include 'core.h'
-#include 'maps.h'
-#include 'adaptors.h'
+#include "dfs.h"
+#include "bfs.h"
+#include "core.h"
+#include "maps.h"
+#include "adaptors.h"
 
-#include 'concepts/digraph.h'
-#include 'concepts/graph.h'
-#include 'concept_check.h'
+#include "concepts/digraph.h"
+#include "concepts/graph.h"
+#include "concept_check.h"
 
 #include <stack>
 #include <functional>

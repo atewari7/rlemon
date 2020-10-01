@@ -21,11 +21,11 @@
 
 #include <algorithm>
 #include <vector>
-#include 'unionfind.h'
-#include 'maps.h'
+#include "unionfind.h"
+#include "maps.h"
 
-#include 'core.h'
-#include 'bits/traits.h'
+#include "core.h"
+#include "bits/traits.h"
 
 ///\ingroup spantree
 ///\file

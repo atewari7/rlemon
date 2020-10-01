@@ -24,13 +24,13 @@
 ///\brief Dijkstra algorithm.
 
 #include <limits>
-#include 'list_graph.h'
-#include 'bin_heap.h'
-#include 'bits/path_dump.h'
-#include 'core.h'
-#include 'error.h'
-#include 'maps.h'
-#include 'path.h'
+#include "list_graph.h"
+#include "bin_heap.h"
+#include "bits/path_dump.h"
+#include "core.h"
+#include "error.h"
+#include "maps.h"
+#include "path.h"
 
 namespace lemon {
 

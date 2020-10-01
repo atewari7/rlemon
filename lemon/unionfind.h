@@ -30,7 +30,7 @@
 #include <algorithm>
 #include <functional>
 
-#include 'core.h'
+#include "core.h"
 
 namespace lemon {
 

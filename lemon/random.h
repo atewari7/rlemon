@@ -68,8 +68,8 @@
 #include <limits>
 #include <fstream>
 
-#include 'math.h'
-#include 'dim2.h'
+#include "math.h"
+#include "dim2.h"
 
 #ifndef WIN32
 #include <sys/time.h>
@@ -77,7 +77,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 #else
-#include 'bits/windows.h'
+#include "bits/windows.h"
 #endif
 
 ///\ingroup misc

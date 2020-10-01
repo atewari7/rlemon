@@ -23,13 +23,13 @@
 #include<vector>
 #include<map>
 #include<limits>
-#include<lemon/math.h>
+#include "math.h"
 
-#include<lemon/error.h>
-#include<lemon/assert.h>
+#include "error.h"
+#include "assert.h"
 
-#include<lemon/core.h>
-#include<lemon/bits/solver_bits.h>
+#include "core.h"
+#include "bits/solver_bits.h"
 
 ///\file
 ///\brief The interface of the LP solver interface.

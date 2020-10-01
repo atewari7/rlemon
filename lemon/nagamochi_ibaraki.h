@@ -24,12 +24,12 @@
 /// \file
 /// \brief Implementation of the Nagamochi-Ibaraki algorithm.
 
-#include 'core.h'
-#include 'bin_heap.h'
-#include 'bucket_heap.h'
-#include 'maps.h'
-#include 'radix_sort.h'
-#include 'unionfind.h'
+#include "core.h"
+#include "bin_heap.h"
+#include "bucket_heap.h"
+#include "maps.h"
+#include "radix_sort.h"
+#include "unionfind.h"
 
 #include <cassert>
 

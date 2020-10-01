@@ -23,7 +23,7 @@
 ///\brief Header of the LEMON-CBC mip solver interface.
 ///\ingroup lp_group
 
-#include 'lp_base.h'
+#include "lp_base.h"
 
 class CoinModel;
 class OsiSolverInterface;

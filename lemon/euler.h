@@ -19,9 +19,9 @@
 #ifndef LEMON_EULER_H
 #define LEMON_EULER_H
 
-#include<lemon/core.h>
-#include<lemon/adaptors.h>
-#include<lemon/connectivity.h>
+#include "core.h"
+#include "adaptors.h"
+#include "connectivity.h"
 #include <list>
 
 /// \ingroup graph_properties

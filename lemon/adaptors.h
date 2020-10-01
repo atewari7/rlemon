@@ -25,13 +25,13 @@
 ///
 /// This file contains several useful adaptors for digraphs and graphs.
 
-#include 'core.h'
-#include 'maps.h'
-#include 'bits/variant.h'
+#include "core.h"
+#include "maps.h"
+#include "bits/variant.h"
 
-#include 'bits/graph_adaptor_extender.h'
-#include 'bits/map_extender.h'
-#include 'tolerance.h'
+#include "bits/graph_adaptor_extender.h"
+#include "bits/map_extender.h"
+#include "tolerance.h"
 
 #include <algorithm>
 

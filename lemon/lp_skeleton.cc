@@ -16,7 +16,7 @@
  *
  */
 
-#include 'lp_skeleton.h'
+#include "lp_skeleton.h"
 
 ///\file
 ///\brief A skeleton file to implement LP solver interfaces

@@ -25,7 +25,7 @@
 #include <vector>
 #include <string>
 
-#include 'lp_base.h'
+#include "lp_base.h"
 
 // Forward declaration
 namespace soplex {

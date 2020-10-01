@@ -19,10 +19,10 @@
 ///\file
 ///\brief Implementation of the LEMON GLPK LP and MIP solver interface.
 
-#include 'glpk.h'
+#include "glpk.h"
 #include <glpk.h>
 
-#include 'assert.h'
+#include "assert.h"
 
 namespace lemon {
 

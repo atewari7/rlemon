@@ -24,11 +24,11 @@
 #include <set>
 #include <limits>
 
-#include 'core.h'
-#include 'unionfind.h'
-#include 'bin_heap.h'
-#include 'maps.h'
-#include 'fractional_matching.h'
+#include "core.h"
+#include "unionfind.h"
+#include "bin_heap.h"
+#include "maps.h"
+#include "fractional_matching.h"
 
 ///\ingroup matching
 ///\file

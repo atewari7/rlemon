@@ -26,8 +26,8 @@
 
 #include <vector>
 #include <limits>
-#include 'core.h'
-#include 'bin_heap.h'
+#include "core.h"
+#include "bin_heap.h"
 
 namespace lemon {
 

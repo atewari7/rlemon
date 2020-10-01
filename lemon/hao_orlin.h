@@ -23,9 +23,9 @@
 #include <list>
 #include <limits>
 
-#include 'maps.h'
-#include 'core.h'
-#include 'tolerance.h'
+#include "maps.h"
+#include "core.h"
+#include "tolerance.h"
 
 /// \file
 /// \ingroup min_cut

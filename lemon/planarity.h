@@ -26,16 +26,16 @@
 #include <vector>
 #include <list>
 
-#include 'dfs.h'
-#include 'bfs.h'
-#include 'radix_sort.h'
-#include 'maps.h'
-#include 'path.h'
-#include 'bucket_heap.h'
-#include 'adaptors.h'
-#include 'edge_set.h'
-#include 'color.h'
-#include 'dim2.h'
+#include "dfs.h"
+#include "bfs.h"
+#include "radix_sort.h"
+#include "maps.h"
+#include "path.h"
+#include "bucket_heap.h"
+#include "adaptors.h"
+#include "edge_set.h"
+#include "color.h"
+#include "dim2.h"
 
 namespace lemon {
 

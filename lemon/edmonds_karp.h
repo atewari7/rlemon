@@ -23,7 +23,7 @@
 /// \ingroup max_flow
 /// \brief Implementation of the Edmonds-Karp algorithm.
 
-#include 'tolerance.h'
+#include "tolerance.h"
 #include <vector>
 
 namespace lemon {

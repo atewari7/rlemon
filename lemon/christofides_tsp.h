@@ -23,11 +23,11 @@
 /// \file
 /// \brief Christofides algorithm for symmetric TSP
 
-#include 'full_graph.h'
-#include 'smart_graph.h'
-#include 'kruskal.h'
-#include 'matching.h'
-#include 'euler.h'
+#include "full_graph.h"
+#include "smart_graph.h"
+#include "kruskal.h"
+#include "matching.h"
+#include "euler.h"
 
 namespace lemon {
 

@@ -19,7 +19,7 @@
 ///\file
 ///\brief Instantiation of the Random class.
 
-#include 'random.h'
+#include "random.h"
 
 namespace lemon {
   /// \brief Global random number generator instance

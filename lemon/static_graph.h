@@ -23,8 +23,8 @@
 ///\file
 ///\brief StaticDigraph class.
 
-#include 'core.h'
-#include 'bits/graph_extender.h'
+#include "core.h"
+#include "bits/graph_extender.h"
 
 namespace lemon {
 

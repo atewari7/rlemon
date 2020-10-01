@@ -24,7 +24,7 @@
 ///\brief Tools for measuring cpu usage
 
 #ifdef WIN32
-#include 'bits/windows.h'
+#include "bits/windows.h"
 #else
 #include <unistd.h>
 #include <sys/times.h>
@@ -34,7 +34,7 @@
 #include <string>
 #include <fstream>
 #include <iostream>
-#include 'math.h'
+#include "math.h"
 
 namespace lemon {
 

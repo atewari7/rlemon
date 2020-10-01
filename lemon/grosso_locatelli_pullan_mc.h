@@ -27,8 +27,8 @@
 
 #include <vector>
 #include <limits>
-#include 'core.h'
-#include 'random.h'
+#include "core.h"
+#include "random.h"
 
 namespace lemon {
 
