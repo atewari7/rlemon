@@ -24,7 +24,7 @@
 #include <vector>
 #include <map>
 
-#include "core.h"
+#include 'core.h'
 
 ///\file
 ///\ingroup maps

@@ -27,8 +27,8 @@
 ///for labeling items in push-relabel type algorithms.
 ///
 
-#include "core.h"
-#include "bits/traits.h"
+#include 'core.h'
+#include 'bits/traits.h'
 
 namespace lemon {
 

@@ -19,8 +19,8 @@
 #ifndef LEMON_CIRCULATION_H
 #define LEMON_CIRCULATION_H
 
-#include "tolerance.h"
-#include "elevator.h"
+#include 'tolerance.h'
+#include 'elevator.h'
 #include <limits>
 
 ///\ingroup max_flow

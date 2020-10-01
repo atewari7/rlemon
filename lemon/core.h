@@ -22,10 +22,10 @@
 #include <vector>
 #include <algorithm>
 
-#include "config.h"
-#include "bits/enable_if.h"
-#include "bits/traits.h"
-#include "assert.h"
+#include 'config.h'
+#include 'bits/enable_if.h'
+#include 'bits/traits.h'
+#include 'assert.h'
 
 // Disable the following warnings when compiling with MSVC:
 // C4250: 'class1' : inherits 'class2::member' via dominance
